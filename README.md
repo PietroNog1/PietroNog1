@@ -1,4 +1,4 @@
-## Oiii eu sou a Luis Eduardo Fernandes Borges,sou ilustrador e Designer Gráfico.
+## Oiii eu sou a Luis Eduardo Fernandes Borges, sou ilustrador e Designer Gráfico.
 <div align="center">
   <a href="https://github.com/PietroNog1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PietroNog1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
