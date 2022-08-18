@@ -11,8 +11,6 @@
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luis-yoda"
-  src+=https://cdn.discordapp.com/attachments/624620225287159860/1009236309275050065/picasion.com_99b8b1bb6fe347c66707a3d6bb9e77e2.gif
 </div>
   
   ##
