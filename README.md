@@ -1,8 +1,9 @@
 ## Oiii eu sou a Luis Eduardo Fernandes Borges, sou ilustrador e Designer Gráfico.
-<div align="center">
+
+<div>
   <a href="https://github.com/PietroNog1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PietroNog1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroNog1&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroNog1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,6 +11,8 @@
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luis-yoda"
+  src+=https://cdn.discordapp.com/attachments/624620225287159860/1009236309275050065/picasion.com_99b8b1bb6fe347c66707a3d6bb9e77e2.gif
 </div>
   
   ##
