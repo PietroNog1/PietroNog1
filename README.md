@@ -1,4 +1,4 @@
-## Oiii eu sou a Luis Eduardo Fernandes Borges, sou ilustrador e Designer Gráfico.
+## Oiii eu sou a Luis Eduardo Fernandes Borges, eu sou design gráfico e estudante de programação.
 
 <div>
   <a href="https://github.com/PietroNog1">
