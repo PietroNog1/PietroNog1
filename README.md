@@ -1,4 +1,4 @@
-## Oiii eu sou a Luis Eduardo Fernandes Borges, eu sou design gráfico e estudante de programação.
+## <h1>Oiii eu sou a Luis Eduardo Fernandes Borges, eu sou design gráfico e estudante de programação</h1>.
 
 <div>
   <a href="https://github.com/PietroNog1">
