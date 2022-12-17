@@ -71,12 +71,12 @@
 <br/>  
 
 ## Github Strick
-  <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pietronog1&" alt="pietronog1" /></div>
+  <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pietronog1&" align="center" /></div>
 
 <br/>
   
   ## Leagues moust used
-  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pietronog1&show_icons=true&locale=en&layout=compact" alt="pietronog1" /></div>
+  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pietronog1&show_icons=true&locale=en&layout=compact" align="center" /></div>
   
 <br/>  
 
@@ -89,10 +89,5 @@
 </div>  
   
 
-<br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
