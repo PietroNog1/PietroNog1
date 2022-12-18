@@ -53,7 +53,7 @@
 <a href="https://www.facebook.com/Luis Borges" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/Social Alucard" target="_blank">
+<a href="https://www.youtube.com/channel/UCLpfXPv2FAYsG493MAK2J3w" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/PietroNog1" target="_blank">
